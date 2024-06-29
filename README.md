@@ -3,7 +3,7 @@
 ## Overview
 
 Welcome to the Simple Web Server in C project! 
-This repository contains a basic implementation of a web server designed for Linux, utilizing the '<arpa/inet.h>' library. 
+This repository contains a basic implementation of a web server designed for Linux, utilizing the `<arpa/inet.h>` library. 
 The purpose of this project is to provide a straightforward and educational example of how a web server can be constructed in C.
 
 ## Features
